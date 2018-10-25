@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="五子棋">
+</Property><Property Name="解决方案文件" Value="C:\Users\Acer\Desktop\fivechess\五子棋.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\Acer\Desktop\fivechess\五子棋.suo">
+</Property><Property Name="Date" Value="2014年6月13日">
+</Property><Property Name="Time" Value="15:09">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="五子棋.sln" Description="文件已成功备份为 C:\Users\Acer\Desktop\fivechess\五子棋.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="五子棋.suo" Description="文件已成功备份为 C:\Users\Acer\Desktop\fivechess\五子棋.suo.old">
+</Event><Event ErrorLevel="0" Project="五子棋" Source="五子棋.vcproj" Description="Converting project file 'C:\Users\Acer\Desktop\fivechess\五子棋.vcproj'.">
+</Event><Event ErrorLevel="1" Project="五子棋" Source="五子棋.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="1" Project="五子棋" Source="五子棋.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="五子棋" Source="五子棋.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="五子棋" Source="五子棋.vcproj" Description="MSB8012: $(TargetPath) ('C:\Users\Acer\Desktop\fivechess\.\Release\五子棋.exe') does not match the Linker's OutputFile property value '.\Release/五子棋.exe' ('C:\Users\Acer\Desktop\fivechess\Release/五子棋.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="五子棋" Source="五子棋.vcproj" Description="MSB8012: $(TargetPath) ('C:\Users\Acer\Desktop\fivechess\.\Debug\五子棋.exe') does not match the Linker's OutputFile property value '.\Debug/五子棋.exe' ('C:\Users\Acer\Desktop\fivechess\Debug/五子棋.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="五子棋" Source="五子棋.vcproj" Description="Done converting to new project file 'C:\Users\Acer\Desktop\fivechess\五子棋.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="五子棋" Source="五子棋.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="五子棋.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="五子棋.sln" Description="Converted">
+</Event></UpgradeLog>

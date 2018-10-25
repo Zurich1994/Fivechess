@@ -1,0 +1,30 @@
+﻿生成启动时间为 2015/9/6 20:52:39。
+     1>项目“F:\我的程序\C++\fivechess\五子棋.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Software\Important\vs2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp".\Debug\五子棋.pch" /Fo".\Debug\\" /Fd".\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+     1>d:\software\important\vs2015\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+         d:\software\important\vs2015\vc\atlmfc\include\afx.h(33): note: 参见“MBCS_Support_Deprecated_In_MFC”的声明
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         D:\Software\Important\vs2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp".\Debug\五子棋.pch" /Fo".\Debug\\" /Fd".\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "五子棋.cpp" "五子棋Dlg.cpp"
+         五子棋Dlg.cpp
+     1>f:\我的程序\c++\fivechess\五子棋dlg.cpp(503): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+     1>f:\我的程序\c++\fivechess\五子棋dlg.cpp(529): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+     1>f:\我的程序\c++\fivechess\五子棋dlg.cpp(487): warning C4101: “kk”: 未引用的局部变量
+         五子棋.cpp
+     1>f:\我的程序\c++\fivechess\五子棋.cpp(47): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+         d:\software\important\vs2015\vc\atlmfc\include\afxwin.h(5224): note: 参见“CWinApp::Enable3dControls”的声明
+         正在生成代码...
+       Link:
+         D:\Software\Important\vs2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\五子棋.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\Software\Important\vs2015\VC\Include\Manifest\dpiaware.manifest /Debug /PDB:".\Debug\五子棋.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\五子棋.lib" /MACHINE:X86 /SAFESEH ".\Debug\五子棋.res"
+         .\Debug\StdAfx.obj
+         ".\Debug\五子棋.obj"
+         ".\Debug\五子棋Dlg.obj"
+         LINK : 缺少程序数据库 F:\我的程序\C++\fivechess\Debug\五子棋.pdb；正在执行完全链接
+     1>StdAfx.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+         五子棋.vcxproj -> F:\我的程序\C++\fivechess\.\Debug\五子棋.exe
+     1>已完成生成项目“F:\我的程序\C++\fivechess\五子棋.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:11.85

@@ -1,0 +1,43 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 五子棋 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/五子棋.res" /d "_DEBUG" /d "_AFXDLL" "F:\fivechess\五子棋.rc"" 
+Creating temporary file "C:\DOCUME~1\pzm\LOCALS~1\Temp\RSP2A.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/五子棋.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"F:\fivechess\五子棋.cpp"
+"F:\fivechess\五子棋Dlg.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\pzm\LOCALS~1\Temp\RSP2A.tmp" 
+Creating temporary file "C:\DOCUME~1\pzm\LOCALS~1\Temp\RSP2B.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/五子棋.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"F:\fivechess\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\pzm\LOCALS~1\Temp\RSP2B.tmp" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/五子棋.pdb" /debug /machine:I386 /out:"Debug/五子棋.exe" /pdbtype:sept  .\Debug\StdAfx.obj ".\Debug\五子棋.obj" ".\Debug\五子棋Dlg.obj" ".\Debug\五子棋.res" "
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+五子棋.cpp
+五子棋Dlg.cpp
+F:\fivechess\五子棋Dlg.cpp(500) : warning C4805: '==' : unsafe mix of type 'int' and type 'const bool' in operation
+F:\fivechess\五子棋Dlg.cpp(526) : warning C4805: '==' : unsafe mix of type 'int' and type 'const bool' in operation
+F:\fivechess\五子棋Dlg.cpp(484) : warning C4101: 'kk' : unreferenced local variable
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+五子棋.exe - 0 error(s), 3 warning(s)
+</pre>
+</body>
+</html>
