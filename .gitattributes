@@ -1,3 +1,8 @@
 # Auto detect text files and perform LF normalization
 *.cpp linguist-language=C++
 *.h linguist-language=C++
+<<<<<<< HEAD
+=======
+*.xml linguist-language=C++ 
+*.htm linguist-language=C++
+>>>>>>> a48f40c2745a4ccd64ccd2bad45603652059385c
